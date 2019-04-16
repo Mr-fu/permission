@@ -1,4 +1,4 @@
-package com.hnic.permission.config;
+package com.permission.config;
 
 import org.beetl.core.resource.ClasspathResourceLoader;
 import org.beetl.ext.spring.BeetlGroupUtilConfiguration;

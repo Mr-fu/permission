@@ -1,6 +1,6 @@
-package com.hnic.permission.service;
+package com.permission.service;
 
-import com.hnic.permission.context.Context;
+import com.permission.context.Context;
 import org.springframework.stereotype.Component;
 
 /**

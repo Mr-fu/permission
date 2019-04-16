@@ -1,4 +1,4 @@
-package com.hnic.permission.context;
+package com.permission.context;
 
 import java.io.Serializable;
 import lombok.Data;

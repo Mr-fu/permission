@@ -1,6 +1,6 @@
-package com.hnic.permission.config;
+package com.permission.config;
 
-import com.hnic.permission.interceptor.PermissionInterceptor;
+import com.permission.interceptor.PermissionInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

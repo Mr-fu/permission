@@ -1,10 +1,10 @@
-package com.hnic.permission.cache;
+package com.permission.cache;
 
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
-import com.hnic.permission.context.Context;
-import com.hnic.permission.service.ResultMsg;
-import com.hnic.permission.service.ValidateService;
+import com.permission.context.Context;
+import com.permission.service.ResultMsg;
+import com.permission.service.ValidateService;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package com.hnic.permission.service;
+package com.permission.service;
 
 import java.util.List;
 import lombok.Data;

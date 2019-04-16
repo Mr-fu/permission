@@ -1,6 +1,6 @@
-package com.hnic.permission.service;
+package com.permission.service;
 
-import com.hnic.permission.context.Context;
+import com.permission.context.Context;
 
 /**
  * @author fushipeng@meituan.com

@@ -1,6 +1,6 @@
-package com.hnic.permission.config;
+package com.permission.config;
 
-import com.hnic.permission.context.Context;
+import com.permission.context.Context;
 import java.util.UUID;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

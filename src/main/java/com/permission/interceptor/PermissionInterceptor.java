@@ -1,10 +1,10 @@
-package com.hnic.permission.interceptor;
+package com.permission.interceptor;
 
-import com.hnic.permission.annotation.RequiresPermissions;
-import com.hnic.permission.cache.PermissionCache;
-import com.hnic.permission.context.Context;
-import com.hnic.permission.service.ResultMsg;
-import com.hnic.permission.service.ValidateService;
+import com.permission.annotation.RequiresPermissions;
+import com.permission.cache.PermissionCache;
+import com.permission.context.Context;
+import com.permission.service.ResultMsg;
+import com.permission.service.ValidateService;
 import java.io.IOException;
 import java.io.Writer;
 import java.lang.reflect.Method;

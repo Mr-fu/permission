@@ -1,4 +1,4 @@
-package com.hnic.permission;
+package com.permission;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
