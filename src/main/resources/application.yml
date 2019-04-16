@@ -1,0 +1,8 @@
+
+spring:
+  # beetl block
+  beetl:
+    prefix:
+    suffix: .html
+    order: 0
+    config: classpath*:beetl.properties
